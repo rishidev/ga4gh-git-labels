@@ -19,10 +19,10 @@
    { "name": "Priority: Low", "color": "#149717" },
    { "name": "Priority: Medium", "color": "#fac92f" },
 
-   { "name": "WES", "color": "#8dc349" },
-   { "name": "TRS", "color": "#9e7baf" },
-   { "name": "DRS", "color": "#f7a441" },
-   { "name": "TES", "color": "#54afda" },
+   { "name": "Project: WES", "color": "#8dc349" },
+   { "name": "Project: TRS", "color": "#9e7baf" },
+   { "name": "Project: DRS", "color": "#f7a441" },
+   { "name": "Project: TES", "color": "#54afda" },
 
    { "name": "Due: Jan", "color": "#073763" },
    { "name": "Due: Feb", "color": "#0b5394" },
@@ -35,6 +35,5 @@
    { "name": "Due: Sep", "color": "#3d85c6" },
    { "name": "Due: Oct", "color": "#351c75" },
    { "name": "Due: Nov", "color": "#674ea7" },
-   { "name": "Due: Dec", "color": "#20124d" },
-
+   { "name": "Due: Dec", "color": "#20124d" }
 ]
